@@ -1,0 +1,8 @@
+<?
+$MESS["DISK_EXTERNAL_LINK_ERROR_DISABLED_MODE"] = "На портале отключена работа с публичными ссылками на файлы.";
+$MESS['DISK_EXTERNAL_OBJECT_SORT_BY_NAME'] = "По названию";
+$MESS['DISK_EXTERNAL_OBJECT_SORT_BY_UPDATE_TIME'] = "По дате";
+$MESS['DISK_EXTERNAL_OBJECT_SORT_BY_FORMATTED_SIZE'] = "По размеру";
+$MESS['DISK_EXTERNAL_OBJECT_ACT_MARK_DELETED'] = "Удалить";
+$MESS['DISK_EXTERNAL_OBJECT_ACT_COPY'] = "Копировать";
+?>
